@@ -3,7 +3,7 @@
     "configurations": [
 
       {
-        "type": "node",
+        "type": "node", d
         "request": "launch",
         "name": "Start server",
         "skipFiles": [
